@@ -3,7 +3,7 @@
 # Paperclip Studio
 
 ***Paperclip Studio is a free, open-source drawing appilcation made by a 15 years old called "John" using Python*** 
-***Draw freely with one of the coolest brushes, make excellent artworks with it, and publish it anywhere to showcase your work. ***
+***Draw freely with one of the coolest brushes, make excellent artworks with it, and publish it anywhere to showcase your work.***
 
 Made in:
 * Python 3.12.10
